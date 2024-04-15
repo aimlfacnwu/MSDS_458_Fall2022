@@ -1,3 +1,4 @@
 This folder contains the files to help you complete Assignment 2. 
 The file lab_on_cnns.ipynb walks through concepts of Conv2D, max pooling and dropouts and how you can use the Keras for CNNs.
 The Assignment_02_part01 and _part02 pynb files walk through the CIFAR data set and different utility functions as we create the CNN models.
+The link to the recording on this lab can be found at this link. Please login using the NWU SSO link: https://northwestern.zoom.us/rec/play/LkSlnHB8126peNsDRcb2y3XzEcXYKn8tiyV7WMGuOA21U1bxBimCGbVqVYlh35XGGdCbNiAH9f-FGDU-.eN9tRLJS7vOvo_jI
